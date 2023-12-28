@@ -1,32 +1,23 @@
-# PROJECT OVERVIEW
+**Project Overview**
 
-Welcome to the culmination of my efforts during the Website Development Course at SAIT. This project represents 
-a dynamic web application designed to facilitate appointment scheduling and calculate the associated costs.
+Embark on a journey through my Website Development Course at SAIT with this assignment—a testament to my proficiency and skills in HTML, CSS, and JavaScript. This project encapsulates a dynamic web application featuring appointment scheduling and automated cost calculation.
 
-## KEY FEATURES
-- **Appointment Booking:** Users can seamlessly schedule appointments through the active webpage, ensuring a user-friendly experience.
-  
-- **Cost Calculation:** The application includes functionality to automatically compute the final cost associated with each appointment,
-  streamlining the process for both users and administrators.
+**Key Features:**
 
-**TECHNOLOGIES SHOWCASE:**
-This project serves as a showcase of my proficiency in HTML, CSS, and JavaScript. By delving into the codebase, you'll gain insights into
-how these technologies harmoniously come together to create a robust and functional web application.
+- **User-Friendly Appointment Booking:** Experience a seamlessly designed webpage that empowers users to effortlessly schedule appointments.
 
-## GETTING STARTED
+- **Automated Cost Calculation:** Witness the application's capability to dynamically calculate the final cost associated with each appointment, streamlining the user experience.
+
+**Skills Demonstrated:**
+
+This project serves as a showcase of my adeptness in HTML, CSS, and JavaScript. Explore the codebase to gain insights into how these technologies synergize to create a robust and functional web application.
+
+**Getting Started:**
 
 To run the code locally, follow these steps:
-To explore and run this code locally, follow these steps:
 
-1. **Clone the Repository**: Git Bash and execute the following command:
+1. Clone the repository using the following link: [https://tannguyen-dev.github.io/Delilah_Doggy_Daycare/](https://tannguyen-dev.github.io/Delilah_Doggy_Daycare/)
 
-    ```bash
-    git clone https://github.com/TanNguyen-dev/Rajs_Robot_Rentals.git
-    ```
-    OR
-  
-   Open Vstudio Code and make a clone repository by this link: https://github.com/TanNguyen-dev/Delilah_Doggy_Daycare.git
-2. **Access Online**: Alternatively, you can experience the live version by visiting the following link:
+2. Open the cloned repository in Visual Studio Code or your preferred integrated development environment.
 
-    [Delilah_Doggy_Daycare](https://tannguyen-dev.github.io/Delilah_Doggy_Daycare/)
-Feel free to explore, provide feedback, or contribute to the continuous improvement of this project. Thank you for checking out this endeavor, and I hope you find it both informative and engaging.
+Feel free to delve into the project, offer feedback, or contribute to its ongoing refinement. Your exploration is appreciated, and I trust you'll find this project both enlightening and engaging.
