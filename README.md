@@ -1,4 +1,5 @@
 **PROJECT OVERVIEW**
+
 Welcome to the culmination of my efforts during the Website Development Course at SAIT. This project represents 
 a dynamic web application designed to facilitate appointment scheduling and calculate the associated costs.
 
